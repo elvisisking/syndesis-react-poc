@@ -59,6 +59,7 @@
   },
   "metrics": {
     "lastProcessed": "Last Processed",
+    "NoDataAvailable": "No data available",
     "since": "Since ",
     "totalErrors": "Total Errors",
     "totalMessages": "Total Messages",

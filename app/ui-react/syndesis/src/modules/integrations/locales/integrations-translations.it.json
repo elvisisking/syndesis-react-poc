@@ -6,5 +6,13 @@
   "ASSEMBLING": "Assemblaggio",
   "BUILDING": "Costruzione",
   "DEPLOYING": "La Diffusione",
-  "STARTING": "Di Partenza"
+  "STARTING": "Di Partenza",
+  "metrics": {
+    "lastProcessed": "Ultima Elaborazione",
+    "NoDataAvailable": "Nessun dato disponibile",
+    "since": "Da ",
+    "totalErrors": "Errori Totali",
+    "totalMessages": "Messaggi Totali",
+    "uptime": "Tempo"
+  }
 }
